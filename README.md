@@ -1,1 +1,1 @@
-# zv-loz-zm
+# Zambezi Voice - Lozi Speech Dataset
